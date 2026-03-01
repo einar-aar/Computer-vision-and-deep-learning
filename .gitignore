@@ -1,0 +1,7 @@
+
+# Dataset
+Pole_detection/Road_poles_iPhone/images
+Pole_detection/Road_poles_iPhone/labels
+Pole_detection/roadpoles_v1/test
+Pole_detection/roadpoles_v1/train
+Pole_detection/roadpoles_v1/valid
