@@ -1,0 +1,7 @@
+path: Road_poles_iPhone
+
+train: images/Train/train
+val: images/Validation/val
+
+names:
+  0: pole
